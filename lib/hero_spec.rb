@@ -12,4 +12,4 @@ describe Hero do
         hero = Hero.new
         expect(hero.hp).to be >= 1000
     end
-end
+end   
