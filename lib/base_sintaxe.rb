@@ -10,4 +10,4 @@ describe Hero do
             expect(hero.hp).to eq(5000)
         end
     end
-end
+end  
